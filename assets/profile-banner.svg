@@ -1,0 +1,63 @@
+<svg width="1600" height="420" viewBox="0 0 1600 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1600" y2="420" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#020617"/>
+      <stop offset="0.52" stop-color="#0F172A"/>
+      <stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+    <radialGradient id="glowA" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(280 80) rotate(36) scale(460 260)">
+      <stop stop-color="#2563EB" stop-opacity="0.42"/>
+      <stop offset="1" stop-color="#2563EB" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowB" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1320 340) rotate(180) scale(520 280)">
+      <stop stop-color="#14B8A6" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#14B8A6" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#38BDF8" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#38BDF8" stop-opacity="1"/>
+      <stop offset="1" stop-color="#38BDF8" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1600" height="420" rx="28" fill="url(#bg)"/>
+  <rect width="1600" height="420" rx="28" fill="url(#glowA)"/>
+  <rect width="1600" height="420" rx="28" fill="url(#glowB)"/>
+
+  <g opacity="0.1">
+    <path d="M0 70H1600" stroke="#94A3B8"/>
+    <path d="M0 140H1600" stroke="#94A3B8"/>
+    <path d="M0 210H1600" stroke="#94A3B8"/>
+    <path d="M0 280H1600" stroke="#94A3B8"/>
+    <path d="M0 350H1600" stroke="#94A3B8"/>
+    <path d="M160 0V420" stroke="#94A3B8"/>
+    <path d="M320 0V420" stroke="#94A3B8"/>
+    <path d="M480 0V420" stroke="#94A3B8"/>
+    <path d="M640 0V420" stroke="#94A3B8"/>
+    <path d="M800 0V420" stroke="#94A3B8"/>
+    <path d="M960 0V420" stroke="#94A3B8"/>
+    <path d="M1120 0V420" stroke="#94A3B8"/>
+    <path d="M1280 0V420" stroke="#94A3B8"/>
+    <path d="M1440 0V420" stroke="#94A3B8"/>
+  </g>
+
+  <rect x="74" y="74" width="224" height="34" rx="17" fill="#0F172A" stroke="#334155"/>
+  <text x="186" y="96" text-anchor="middle" fill="#93C5FD" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" letter-spacing="2.2">APPLIED AI</text>
+
+  <text x="74" y="178" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="62" font-weight="800">João Filho</text>
+  <text x="74" y="226" fill="#38BDF8" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="700" letter-spacing="1.6">DEV TOOLING • AUTOMATION • DIGITAL FORENSICS</text>
+
+  <text x="74" y="286" fill="#CBD5E1" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="400">Building practical AI systems for real-world operations,</text>
+  <text x="74" y="320" fill="#CBD5E1" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="400">workflow automation, investigative context and reliable delivery.</text>
+
+  <rect x="74" y="356" width="1452" height="2" fill="url(#line)" opacity="0.9"/>
+
+  <g opacity="0.88">
+    <rect x="1110" y="86" width="344" height="216" rx="20" fill="#0B1220" stroke="#1E293B"/>
+    <text x="1140" y="128" fill="#93C5FD" font-family="Consolas, 'Courier New', monospace" font-size="18" font-weight="700">current_focus</text>
+    <text x="1140" y="168" fill="#E2E8F0" font-family="Consolas, 'Courier New', monospace" font-size="18">- agentic workflows</text>
+    <text x="1140" y="198" fill="#E2E8F0" font-family="Consolas, 'Courier New', monospace" font-size="18">- llm integrations</text>
+    <text x="1140" y="228" fill="#E2E8F0" font-family="Consolas, 'Courier New', monospace" font-size="18">- git-based publishing</text>
+    <text x="1140" y="258" fill="#E2E8F0" font-family="Consolas, 'Courier New', monospace" font-size="18">- ocr + forensic pipelines</text>
+  </g>
+</svg>
