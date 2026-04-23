@@ -104,13 +104,40 @@ contexto incompleto, necessidade de validação, histórico de mudanças e opera
 
 ## Atividade e Commits
 
+<table>
+  <tr>
+    <td width="52%" valign="top">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=apcjoaofilho&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=7EE787&currStreakNum=F0F6FC&sideNums=E6EDF3&currStreakLabel=E6EDF3&sideLabels=8B949E&dates=6E7681" />
+        <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://streak-stats.demolab.com?user=apcjoaofilho&hide_border=true&background=FFFFFF&stroke=D0D7DE&ring=0969DA&fire=1A7F37&currStreakNum=24292F&sideNums=24292F&currStreakLabel=24292F&sideLabels=57606A&dates=6E7781" />
+        <img height="170" src="https://streak-stats.demolab.com?user=apcjoaofilho&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=7EE787&currStreakNum=F0F6FC&sideNums=E6EDF3&currStreakLabel=E6EDF3&sideLabels=8B949E&dates=6E7681" alt="Streak e contribuições de João Filho" />
+      </picture>
+    </td>
+    <td width="48%" valign="top">
+      <strong>🧰 Stack em uso real</strong><br />
+      Removi o card automático de linguagens porque seus repositórios públicos hoje puxam <code>SCSS</code> e <code>Nunjucks</code> por causa do site, o que distorce seu trabalho recorrente.
+      <br /><br />
+      <sub><code>Python</code> <code>TypeScript</code> <code>Next.js</code> <code>FastAPI</code></sub>
+      <br />
+      <sub><code>GitHub</code> <code>Vercel</code> <code>Obsidian</code> <code>Markdown</code></sub>
+      <br />
+      <sub><code>OpenAI</code> <code>Anthropic</code> <code>OCR</code> <code>IPED</code></sub>
+      <br /><br />
+      <sub>Esse recorte representa melhor seu uso real em IA aplicada, tooling, automação, publicação e fluxos investigativos.</sub>
+    </td>
+  </tr>
+</table>
+
 <p align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=apcjoaofilho&hide_border=true&background=FFFFFF&ring=2563EB&fire=2563EB&currStreakLabel=0F172A&sideLabels=334155&dates=64748B" alt="GitHub streak de João Filho" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apcjoaofilho&layout=compact&hide_border=true&bg_color=00000000&title_color=0f172a&text_color=334155&langs_count=6" alt="Linguagens mais usadas por João Filho" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=apcjoaofilho&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=7ee787&area=true&area_color=0d419d&title_color=e6edf3&hide_border=true&custom_title=Mapa%20de%20atividade%20e%20commits&radius=8" />
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=apcjoaofilho&bg_color=ffffff&color=24292f&line=0969da&point=1a7f37&area=true&area_color=9ecbff&title_color=24292f&hide_border=true&custom_title=Mapa%20de%20atividade%20e%20commits&radius=8" />
+    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=apcjoaofilho&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=7ee787&area=true&area_color=0d419d&title_color=e6edf3&hide_border=true&custom_title=Mapa%20de%20atividade%20e%20commits&radius=8" alt="Mapa de atividade e commits de João Filho" />
+  </picture>
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=apcjoaofilho&bg_color=ffffff&color=0f172a&line=2563eb&point=38bdf8&area=true&hide_border=true" alt="Mapa de commits e atividade de João Filho" />
+  <sub>Paleta noturna alinhada ao GitHub Dark: <code>#0D1117</code> <code>#58A6FF</code> <code>#7EE787</code> <code>#C9D1D9</code>.</sub>
 </p>
 
 ---
