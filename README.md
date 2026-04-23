@@ -62,39 +62,55 @@ contexto incompleto, necessidade de validação, histórico de mudanças e opera
     <td width="50%" valign="top">
       <strong>🏛️ JBA Desenvolvimento</strong><br />
       Consultoria e operação de conteúdo em IA para o setor público, com fluxo de publicação baseado em repositório, Markdown, GitHub e deploy automático na Vercel.
+      <br /><br />
+      <sub><code>Next.js</code> <code>Markdown</code> <code>GitHub</code> <code>Vercel</code></sub>
     </td>
     <td width="50%" valign="top">
       <strong>🌿 Digital Garden / joao-filho</strong><br />
       Base pública de conhecimento construída com notas em Markdown, GitHub e Vercel, usada como sistema de publicação, autoridade e reaproveitamento de conteúdo.
+      <br /><br />
+      <sub><code>Obsidian</code> <code>Markdown</code> <code>GitHub</code> <code>Vercel</code></sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <strong>🕵️ PiauEye</strong><br />
       Arquitetura de plataforma de análise forense digital com IA híbrida, automação de ingestão, extração de entidades e organização de evidências para contexto policial brasileiro.
+      <br /><br />
+      <sub><code>Python</code> <code>OCR</code> <code>LLMs</code> <code>Forensics</code></sub>
     </td>
     <td width="50%" valign="top">
       <strong>🧭 Agent João</strong><br />
       CLI Python sobre a IPED Web API com triagem determinística, banco local de entidades, padrões investigativos e complementação por LLM sob revisão humana.
+      <br /><br />
+      <sub><code>Python</code> <code>Typer</code> <code>SQLite</code> <code>IPED API</code></sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <strong>⚙️ OpenClaw + Linear + Slack Workflow</strong><br />
       Orquestração multiagente para ligar contexto, execução, rastreio e comunicação operacional.
+      <br /><br />
+      <sub><code>Agents</code> <code>Slack</code> <code>Linear</code> <code>Automation</code></sub>
     </td>
     <td width="50%" valign="top">
       <strong>📚 Prioridade Técnica</strong><br />
       IA aplicada com rastreabilidade, workflows baseados em diff e histórico, e ferramentas que reduzam atrito operacional de verdade.
+      <br /><br />
+      <sub><code>Auditability</code> <code>Git-based</code> <code>Tooling</code> <code>Ops</code></sub>
     </td>
   </tr>
 </table>
 
-## Métricas
+## Atividade e Commits
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=apcjoaofilho&show_icons=true&hide_border=true&bg_color=00000000&title_color=0f172a&text_color=334155&icon_color=2563eb&ring_color=2563eb&include_all_commits=true&count_private=true" alt="GitHub stats de João Filho" />
+  <img height="170" src="https://streak-stats.demolab.com?user=apcjoaofilho&hide_border=true&background=FFFFFF&ring=2563EB&fire=2563EB&currStreakLabel=0F172A&sideLabels=334155&dates=64748B" alt="GitHub streak de João Filho" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apcjoaofilho&layout=compact&hide_border=true&bg_color=00000000&title_color=0f172a&text_color=334155&langs_count=6" alt="Linguagens mais usadas por João Filho" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=apcjoaofilho&bg_color=ffffff&color=0f172a&line=2563eb&point=38bdf8&area=true&hide_border=true" alt="Mapa de commits e atividade de João Filho" />
 </p>
 
 ---
