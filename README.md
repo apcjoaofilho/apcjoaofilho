@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-banner.svg" alt="João Filho - Applied AI, Dev Tooling, Automation, Digital Forensics" width="100%" />
+  <img src="./assets/profile-banner-gpt.png" alt="João Filho - Applied AI, Dev Tooling, Automation, Digital Forensics" width="100%" />
 </p>
 
 <h1 align="center">João Filho</h1>
