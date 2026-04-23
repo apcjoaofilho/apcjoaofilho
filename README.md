@@ -114,16 +114,14 @@ contexto incompleto, necessidade de validação, histórico de mudanças e opera
       </picture>
     </td>
     <td width="48%" valign="top">
-      <strong>🧰 Stack em uso real</strong><br />
-      Removi o card automático de linguagens porque seus repositórios públicos hoje puxam <code>SCSS</code> e <code>Nunjucks</code> por causa do site, o que distorce seu trabalho recorrente.
+      <strong>🧰 Core Stack</strong><br />
+      Linguagens, ferramentas e contexto técnico que estruturam meu trabalho atual.
       <br /><br />
       <sub><code>Python</code> <code>TypeScript</code> <code>Next.js</code> <code>FastAPI</code></sub>
       <br />
       <sub><code>GitHub</code> <code>Vercel</code> <code>Obsidian</code> <code>Markdown</code></sub>
       <br />
       <sub><code>OpenAI</code> <code>Anthropic</code> <code>OCR</code> <code>IPED</code></sub>
-      <br /><br />
-      <sub>Esse recorte representa melhor seu uso real em IA aplicada, tooling, automação, publicação e fluxos investigativos.</sub>
     </td>
   </tr>
 </table>
@@ -134,10 +132,6 @@ contexto incompleto, necessidade de validação, histórico de mudanças e opera
     <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=apcjoaofilho&bg_color=ffffff&color=24292f&line=0969da&point=1a7f37&area=true&area_color=9ecbff&title_color=24292f&hide_border=true&custom_title=Mapa%20de%20atividade%20e%20commits&radius=8" />
     <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=apcjoaofilho&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=7ee787&area=true&area_color=0d419d&title_color=e6edf3&hide_border=true&custom_title=Mapa%20de%20atividade%20e%20commits&radius=8" alt="Mapa de atividade e commits de João Filho" />
   </picture>
-</p>
-
-<p align="center">
-  <sub>Paleta noturna alinhada ao GitHub Dark: <code>#0D1117</code> <code>#58A6FF</code> <code>#7EE787</code> <code>#C9D1D9</code>.</sub>
 </p>
 
 ---
